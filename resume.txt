@@ -1,0 +1,6 @@
+rehman
+qualification diploma
+adress 5 capri rd
+certification az 900
+hobby=football
+line add at feature1
