@@ -1,0 +1,5 @@
+canada
+usa
+uk
+france
+italy
